@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using Tyuiu.MishaginaKS.Sprint1.Task0.V5.Lib;
 
 namespace Tyuiu.MishaginaKS.Sprint1.Task0.V5
+
 {
     internal class Program
     {
@@ -19,7 +16,7 @@ namespace Tyuiu.MishaginaKS.Sprint1.Task0.V5
             Console.WriteLine("* Спринт #1                                                              *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                       *");
             Console.WriteLine("* Задание #0                                                             *");
-            Console.WriteLine("* Вариант #0                                                             *");
+            Console.WriteLine("* Вариант #5                                                             *");
             Console.WriteLine("* Выполнила: Мишагина Ксения Сергеевна | АСОиУБ-26-1                     *");
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                               *");
