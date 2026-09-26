@@ -1,8 +1,8 @@
 <Solution>
   <Folder Name="/Task 0/">
-    <Project Path="ClassLibrary1/Tyuiu.MishaginaKS.Sprint1.Task0.V5.Lib.csproj" Id="db7f09d8-0a0a-4eae-ba70-94c469bbd7e7" />
-    <Project Path="TestProject1/Tyuiu.MishaginaKS.Sprint1.Task0.V5.Test.csproj" Id="1c50e26f-ac6d-472d-a283-da43a8e70aab" />
-    <Project Path="Tyuiu.MishaginaKS.Sprint1.Task0.V5/Tyuiu.MishaginaKS.Sprint1.Task0.V5.csproj" />
+    <Project Path="Tyuiu.MishaginaKS.Sprint1.Task0.V5.Lib/Tyuiu.MishaginaKS.Sprint1.Task0.V5.Lib.csproj" Id="5e65975c-063b-4448-b1ba-f77a8070941c" />
+    <Project Path="Tyuiu.MishaginaKS.Sprint1.Task0.V5.Test/Tyuiu.MishaginaKS.Sprint1.Task0.V5.Test.csproj" Id="472dc809-e4b2-4664-a6c9-3ecb942affe6" />
+    <Project Path="Tyuiu.MishaginaKS.Sprint1.Task0.V5/Tyuiu.MishaginaKS.Sprint1.Task0.V5.csproj" Id="df8ec94b-f2a1-4561-aaa0-fe10a87e6116" />
   </Folder>
   <Folder Name="/Task 1/">
     <Project Path="Tyuiu.MishaginaKS.Sprint1.Task1.V12.Lib/Tyuiu.MishaginaKS.Sprint1.Task1.V12.Lib.csproj" Id="f1e66bd3-1fd5-4d3c-9422-b7d4d68a5b95" />

@@ -1,5 +1,4 @@
-﻿
-using Tyuiu.MishaginaKS.Sprint1.Task0.V5.Lib;
+﻿using Tyuiu.MishaginaKS.Sprint1.Task0.V5.Lib;
 
 namespace Tyuiu.MishaginaKS.Sprint1.Task0.V5
 
