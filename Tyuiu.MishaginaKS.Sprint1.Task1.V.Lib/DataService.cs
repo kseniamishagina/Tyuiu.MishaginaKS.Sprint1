@@ -6,7 +6,7 @@ using tyuiu.cources.programming.interfaces.Sprint1;
 {
     public double Calculate(double x, double y)
     {
-        return x / (1 - y);
+        return (x + y) / 6;
     }
 }
 
