@@ -5,9 +5,9 @@
     <Project Path="Tyuiu.MishaginaKS.Sprint1.Task0.V5/Tyuiu.MishaginaKS.Sprint1.Task0.V5.csproj" />
   </Folder>
   <Folder Name="/Task 1/">
-    <Project Path="Tyuiu.MishaginaKS.Sprint1.Task1.V12.Lib/Tyuiu.MishaginaKS.Sprint1.Task1.V12.Lib.csproj" />
-    <Project Path="Tyuiu.MishaginaKS.Sprint1.Task1.V12.Test/Tyuiu.MishaginaKS.Sprint1.Task1.V12.Test.csproj" />
-    <Project Path="Tyuiu.MishaginaKS.Sprint1.Task1.V12/Tyuiu.MishaginaKS.Sprint1.Task1.V12.csproj" />
+    <Project Path="Tyuiu.MishaginaKS.Sprint1.Task1.V12.Lib/Tyuiu.MishaginaKS.Sprint1.Task1.V12.Lib.csproj" Id="f1e66bd3-1fd5-4d3c-9422-b7d4d68a5b95" />
+    <Project Path="Tyuiu.MishaginaKS.Sprint1.Task1.V12.Test/Tyuiu.MishaginaKS.Sprint1.Task1.V12.Test.csproj" Id="53b71766-a220-449a-a2a0-0e55fe233f33" />
+    <Project Path="Tyuiu.MishaginaKS.Sprint1.Task1.V12/Tyuiu.MishaginaKS.Sprint1.Task1.V12.csproj" Id="fe25c9ad-43e6-499c-9be3-4c406aad9bbf" />
   </Folder>
   <Folder Name="/Task2/" />
 </Solution>

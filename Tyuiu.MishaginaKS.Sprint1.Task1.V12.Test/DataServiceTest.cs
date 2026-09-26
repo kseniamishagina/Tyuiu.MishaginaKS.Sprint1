@@ -1,9 +1,9 @@
-using Tyuiu.MishaginaKS.Sprint1.Task1.V12.Lib;
+﻿using Tyuiu.MishaginaKS.Sprint1.Task1.V12.Lib;
 namespace Tyuiu.MishaginaKS.Sprint1.Task1.V12.Test
 {
-    public class UnitTest1
+    public class DataServiceTest
     {
-        [Fact]
+        [TestMethod]
         public void ValidExpression()
 
         {
@@ -11,7 +11,7 @@ namespace Tyuiu.MishaginaKS.Sprint1.Task1.V12.Test
             double x = 1.0;
             double y = 2.0;
             var res = ds.Calculate(x, y);
-            Assert.Equal(-1, res);
+            Assert.AreEqual(-1, res);
         }
     }
 }
