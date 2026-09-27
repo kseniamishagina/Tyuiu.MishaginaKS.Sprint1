@@ -12,7 +12,7 @@ public class DataService : ISprint1Task3V10
 
         int kopecks = (int)Math.Round((number - rubles) * 100);
 
-        return $"{rubles} руб. {kopecks} коп.";
+        return $"{number} руб. - это {rubles} руб. {kopecks} коп.";
 
     }
 }
