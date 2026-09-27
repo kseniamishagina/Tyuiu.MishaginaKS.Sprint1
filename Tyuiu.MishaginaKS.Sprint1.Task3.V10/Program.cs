@@ -1,5 +1,7 @@
 ﻿namespace Tyuiu.MishaginaKS.Sprint1.Task3.V10;
 
+using System.Globalization;
+
 using Tyuiu.MishaginaKS.Sprint1.Task3.V10.Lib;
 
 class Program

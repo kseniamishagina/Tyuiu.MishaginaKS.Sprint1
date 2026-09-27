@@ -1,4 +1,5 @@
-﻿namespace Tyuiu.MishaginaKS.Sprint1.Task3.V10.Lib;
+﻿using System.Globalization;
+namespace Tyuiu.MishaginaKS.Sprint1.Task3.V10.Lib;
     using tyuiu.cources.programming.interfaces.Sprint1;
 
 public class DataService : ISprint1Task3V10
@@ -12,7 +13,7 @@ public class DataService : ISprint1Task3V10
 
         int kopecks = (int)Math.Round((number - rubles) * 100);
 
-        return $"{number} руб. - это {rubles} руб. {kopecks} коп.";
+        return $"{number.ToString("G", CultureInfo.InvariantCulture)} руб. - это {rubles} руб. {kopecks} коп.";
 
     }
 }
